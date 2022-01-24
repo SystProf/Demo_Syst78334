@@ -10,5 +10,6 @@ package shape;
  * @author Megha Patel
  */
 public class Square {
+  int sides;
 
 }
