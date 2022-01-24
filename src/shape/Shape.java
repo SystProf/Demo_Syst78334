@@ -7,7 +7,7 @@ package shape;
 
 /**
  *
- * @author Megha Patel
+ * @author Megha Patel,2022
  */
 public class Shape {
 
@@ -15,7 +15,7 @@ public class Shape {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        
+        Circle c=new Circle();
     }
 
 }
