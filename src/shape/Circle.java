@@ -13,6 +13,10 @@ public class Circle {
 
     private int radius;
 
+    public Circle()
+    {
+        radius=4;
+    }
     /**
      * @return the radius
      */
